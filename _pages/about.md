@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anup Kumar Gupta -- IIT Indore"
+title: "Sneha Shukla"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PMRF doctoral scholar with the department of Computer Science and Engineering at Indian Institute of Technology (IIT) Indore. Currently pursuing research under supervision of [Dr. Puneet Gupta](https://www.iiti.ac.in/people/~puneet/) on Adversarial Attacks and Defences on Deep Learning models. When I’m not into tech, I like to immerse myself in the magical world of books. To know more about me checkout my [GitHub](https://github.com/AnupKumarGupta) profile. If you think, we have something in common, do ping me!
+I am pursuinng my PhD under the supervision of [Dr. Puneet Gupta](https://www.iiti.ac.in/people/~puneet/) with the aim to make healthcare systems robust and trustworthy, at department of Computer Science and Engineering, Indian Institute of Technology (IIT) Indore. I have more than 2 years of experience in Python programming, Data Analysis, and Deep Learning related technologies. 
 
 Education
 =========
-* **Ph.D.**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/), [Aug. 2021 onwards]
-* **M.S. (Research)**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/), GPA: (10/10), [Aug. 2019 - July 2021]
-* **B.Tech**: Computer Science and Engineering, [Dr. A.P.J. Abdul Kalam Technical University](https://aktu.ac.in/), Percentage: 78.42%, [Aug. 2013 - July 2017]
+* **Ph.D.**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/), [May 2021 onwards]
+* **M.Tech.**:   Information Technology, [National Institute of Technology Raipur, Raipur, India](http://www.nitrr.ac.in/aboutit.php), GPA: (8.32/10), [Jun. 2016 - June 2018]
+* **B.E.**: Computer Science and Engineering, [Chhattisgarh Swami Vivekanand Technical University, Bhilai, India](https://www.csvtu.ac.in/), GPA: (8.66/10), [Aug. 2011 - June 2015]
 
 
 Experience
