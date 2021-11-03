@@ -1,14 +1,7 @@
 ---
-title: "FATALRead - Fooling visual speech recognition models"
+title: "Applying Auto-Regressive Model’s Yule-Walker Approach to Amyotrophic Lateral Sclerosis (ALS) patients’ Data"
 collection: publications
-authors: <strong>Anup Kumar Gupta</strong>, [Puneet Gupta](https://www.iiti.ac.in/people/~puneet/), and [Esa Rahtu](https://esa.rahtu.fi/)
-excerpt: 'This paper poposes a novel adversarial attack on the state-of-the-art VSR models with a 100% attack success rate. The algorithm was able to circumvent popular transformation defences with an attack success rate of more than 99%.'
-date: 2021-10-01
-venue: 'Applied Intelligence'
-paperurl: 'http://dx.doi.org/10.1007/s10489-021-02846-w'
----
-<!-- This paper is about the number 1. The number 2 is left for future work. -->
-
-<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
-
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+authors: "Mridu Sahu, Saumya Vishwal, Srungaram Usha Srivalli, Naresh Kumar Nagwani, Shrish Verma, and **Sneha Shukla**"
+date: 2019-01-01
+venue: 'Current Medical Imaging'
+paperurl: 'https://doi.org/10.2174/1573405614666180322143503'
