@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuinng my PhD under the supervision of [Dr. Puneet Gupta](https://www.iiti.ac.in/people/~puneet/) with the aim to make healthcare systems robust and trustworthy, at department of Computer Science and Engineering, Indian Institute of Technology (IIT) Indore. I have more than 2 years of experience in Python programming, Data Analysis, and Deep Learning related technologies. 
+I am pursuinng my PhD under the supervision of [Dr. Puneet Gupta](https://www.iiti.ac.in/people/~puneet/) at department of Computer Science and Engineering, Indian Institute of Technology (IIT) Indore, with the aim to make healthcare systems robust and trustworthy. I have more than 2 years of experience in Python programming, Data Analysis, and Deep Learning related technologies. 
 
 Education
 =========
@@ -19,15 +19,14 @@ Education
 
 Experience
 =========
-* **Workplace Bots Developer**, [Kwench Global Technologies Pvt. Ltd.](https://www.huminos.com/), [October 2017 - April 2018]
-* **Software Engineer**, [Novoinvent Software Pvt. Ltd.](https://www.novoinvent.com/), [July 2017 - September 2017]
-* **Student Coordinator**, [Software Incubator](https://silive.in/), (R&D center of [Ajay Kumar Garg Engineering College, Ghaziabad](https://www.akgec.ac.in/)), [August 2014 - May 2017]
+* **Programmer**, [National Informatics Center (NIC)](https://chhattisgarh.nic.in/), [Jul. 2018 - Dec. 2019]
+  * Research & Development on Speech Recognition System using Convolution Neural Network (CNN) Deep Learning technique using Python programming language.
+  * Performed data analytics and report generation on state PDS and state education data using SQL queries, SQLite3 and Python’s Pandas, ReportLab & MatplotLib libraries.
+
 
 Some Academic Achievements
 ==========================
-* Recipient of [Prime Minister Research Fellowship (PMRF)](https://may2021.pmrf.in/). 
-* Completed MS (Research) with Rank 1 and perfect CGPA. 
-* Developed Biometric Attendance System that is currently being used by [Ajay Kumar Garg Engineering College, Ghaziabad](https://www.akgec.ac.in/).
+* Recipient of highest scorer award multiple times during schoolwork. 
 
 
 
