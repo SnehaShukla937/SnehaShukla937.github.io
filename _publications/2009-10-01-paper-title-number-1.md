@@ -3,5 +3,6 @@ title: "Applying Auto-Regressive Model’s Yule-Walker Approach to Amyotrophic L
 collection: publications
 authors: "Mridu Sahu, Saumya Vishwal, Srungaram Usha Srivalli, Naresh Kumar Nagwani, Shrish Verma, and **Sneha Shukla**"
 date: 2019-01-01
-venue: 'Current Medical Imaging'
-paperurl: 'https://doi.org/10.2174/1573405614666180322143503'
+venue: "Current Medical Imaging"
+paperurl: "https://doi.org/10.2174/1573405614666180322143503"
+---
