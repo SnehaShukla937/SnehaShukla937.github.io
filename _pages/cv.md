@@ -18,11 +18,11 @@ Education
 * B.E. in Electronics and Telecommunication, Chhattisgarh Swami Vivekananda Technical University,Bhilai (Aug. 2011 - June 2015)
 
 
-Research
+Project
 =========
-* Adversarial Attacks on Medical Image Segmentation Models, (Aug. 2021 - present)
-  * Devised a novel attack architecture that selects the best surrogate loss function to perform attacks on medical image segmentation models while adding minimum adversarial perturbations.
-  * The architecture was able to fool the state-of-the-art medical image segmentation models with an attack success rate of more than 99%.
+* Speech Recognition System
+  * To tackle the problem of pronunciation in the English language, we have designed a Convolution Neural Network (CNN) \& Long Short Term Memory (LSTM) based speech recognition system that can recognise recorded mispronounced words.
+  * Stages Involved: Data prepossessing, MFCC (Mel Frequency Cepstral Coefficients) feature extraction, model training and testing.
   
 * Impact of Feature Selection on EEG Based Motor Imagery, (July 2017 - July 2018)
   * Showing the impact of correlation and information gain based feature selection on Electroencephalogram (EEG) based Brain-Computer Interface (BCI) data for motor imagery task.
