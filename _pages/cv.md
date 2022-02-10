@@ -24,9 +24,13 @@ Project
   * To tackle the problem of pronunciation in the English language, we have designed a Convolution Neural Network (CNN) \& Long Short Term Memory (LSTM) based speech recognition system that can recognise recorded mispronounced words.
   * Stages Involved: Data prepossessing, MFCC (Mel Frequency Cepstral Coefficients) feature extraction, model training and testing.
   
-* Impact of Feature Selection on EEG Based Motor Imagery, (July 2017 - July 2018)
-  * Showing the impact of correlation and information gain based feature selection on Electroencephalogram (EEG) based Brain-Computer Interface (BCI) data for motor imagery task.
-  * This work includes the extraction of short-time Fourier transform, wavelet and statistical features, selecting the relevant features, and classifying the selected features utilising machine learning.
+* Electroencephalogram (EEG) based Brain-Computer Interface (BCI) systems using machine learning techniques
+  * Enhancing the performance of EEG based BCI systems for motor imagery task by classifying the EEG data and analyse their performance utilising various machine learning techniques such as bagging, boosting, k nearest neighbour (KNN), naive bayes.
+  * Stages involved: Data prepossessing, short-time Fourier transform and wavelet feature extraction, rank-based feature selection, classification.
+
+* Face recognition based real-time attendance system
+  * A computer vision system that can recognise real time faces and record the information to mark attendance.
+  * Stages involved: Image loading, finding a face in the image, compare training and testing face, record information.   
 
 
 Publications
