@@ -47,6 +47,5 @@ Work experience
   * Working in the project entitled **Heart rate monitoring from non-contact face videos using deep learning** under the supervision of Dr. Puneet Gupta.
 
 * National Informatics Centre (NIC) (Raipur, Chhattisgarh, India July 2018 - Dec. 2019)
-  * Software Developer in Research and Development wing of Department of School Education.
   * Involved in the research and development group of a school education project, where I have designed a speech recognition system utilising deep learning techniques. The vision of this project is to tackle the problem of pronunciation in the English language.
   * Worked on data analytics and report generation on state education data using SQL queries, SQLite3, pandas, reportlab, matplotlib and several other python libraries.
