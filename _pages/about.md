@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to my page.
-I am pursuing PhD under the supervision of [Dr. Puneet Gupta](https://www.iiti.ac.in/people/~puneet/) at the Department of Computer Science and Engineering in the Indian Institute of Technology (IIT) Indore, with the aim to make healthcare systems robust and trustworthy. I possess more than 2 years of experience in Deep Learning related technologies, Python programming, Data Analysis. My area of interest includes Machine learning, Deep Learning, Computer Vision and Medical Imaging.
+I am pursuing PhD under the supervision of [Dr. Puneet Gupta](https://www.iiti.ac.in/people/~puneet/) at the Department of Computer Science and Engineering, Indian Institute of Technology (IIT) Indore, with the aim to make healthcare systems robust and trustworthy. I possess more than 2 years of experience in Deep Learning related technologies, Python programming, Data Analytics. My area of interest includes Machine learning, Deep Learning, Computer Vision and Medical Imaging.
 
 Education
 =========
@@ -21,8 +21,8 @@ Education
 Experience
 =========
 * **Programmer**, [National Informatics Center (NIC)](https://chhattisgarh.nic.in/), [Jul. 2018 - Dec. 2019]
-  * Research & Development on Speech Recognition System using Convolution Neural Network (CNN) Deep Learning technique using Python programming language.
-  * Performed data analytics and report generation on state PDS and state education data using SQL queries, SQLite3 and Python’s Pandas, ReportLab & MatplotLib libraries.
+  * Involved in the research and development group of a school education project, where I have designed a speech recognition system utilising deep learning techniques. The vision of this project is to tackle the problem of pronunciation in the English language.
+  * Worked on data analytics and report generation on state education data using SQL queries, SQLite3, pandas, reportlab, matplotlib and several other python libraries.
 
 
 Some Academic Achievements
