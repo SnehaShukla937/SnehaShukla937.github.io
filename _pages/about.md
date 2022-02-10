@@ -13,7 +13,7 @@ I am pursuing PhD under the supervision of [Dr. Puneet Gupta](https://www.iiti.a
 
 Education
 =========
-* **Ph.D.**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/), [May 2021 onwards]
+* **Ph.D.**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/), [Aug. 2021 onwards]
 * **M.Tech.**:   Information Technology, [National Institute of Technology Raipur, Raipur, India](http://www.nitrr.ac.in/aboutit.php), GPA: (8.32/10), [Jun. 2016 - June 2018]
 * **B.E.**: Electronics and Telecommunication, [Chhattisgarh Swami Vivekanand Technical University, Bhilai, India](https://www.csvtu.ac.in/), GPA: (8.66/10), [Aug. 2011 - June 2015]
 
