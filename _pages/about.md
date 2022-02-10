@@ -30,7 +30,7 @@ Some Academic Achievements
 * Presented paper on International Conference on Information and Communication Technology for Competitive Strategies (ICTCS - 2017) in Dec. 2017.
 * Presented  paper on National Conference of Emerging Trends in Information Technology and Management (ETITM - 2017) in Dec. 2017.
 * Participated in the workshop on Medical Signal and Image Processing on May 2017.
-* Achieved pre-senior and senior general knowledge test certificates for securing 90\% marks in both.
+* Achieved pre-senior and senior general knowledge test certificates for securing 90% marks in both.
 
 
 
