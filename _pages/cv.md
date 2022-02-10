@@ -45,4 +45,4 @@ Work experience
 
 * Indian Institute of Technology Indore  (Indore, Madhya Pradesh, Jan. 2021 - Present)
   * Project Fellow (JRF)
-  * Working in the project entitled **Heart rate monitoring from non-contact face videos using deep learning** under the supervision of 
+  * Working in the project entitled **Heart rate monitoring from non-contact face videos using deep learning** under the supervision of Dr.Puneet Gupta.
