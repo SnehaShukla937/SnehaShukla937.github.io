@@ -18,7 +18,7 @@ Education
 * B.E. in Electronics and Telecommunication, Chhattisgarh Swami Vivekananda Technical University,Bhilai (Aug. 2011 - June 2015)
 
 
-Project
+Projects
 =========
 * Speech Recognition System
   * To tackle the problem of pronunciation in the English language, we have designed a Convolution Neural Network (CNN) \& Long Short Term Memory (LSTM) based speech recognition system that can recognise recorded mispronounced words.
@@ -42,11 +42,11 @@ Publications
 Work experience
 ===============
 
+* Indian Institute of Technology Indore  (Indore, Madhya Pradesh, Jan. 2021 - Present)
+  * Project Fellow (JRF)
+  * Working in the project entitled **Heart rate monitoring from non-contact face videos using deep learning** under the supervision of Dr. Puneet Gupta.
+
 * National Informatics Centre (NIC) (Raipur, Chhattisgarh, India July 2018 - Dec. 2019)
   * Software Developer in Research and Development wing of Department of School Education.
   * Involved in the research and development group of a school education project, where I have designed a speech recognition system utilising deep learning techniques. The vision of this project is to tackle the problem of pronunciation in the English language.
   * Worked on data analytics and report generation on state education data using SQL queries, SQLite3, pandas, reportlab, matplotlib and several other python libraries.
-
-* Indian Institute of Technology Indore  (Indore, Madhya Pradesh, Jan. 2021 - Present)
-  * Project Fellow (JRF)
-  * Working in the project entitled **Heart rate monitoring from non-contact face videos using deep learning** under the supervision of Dr. Puneet Gupta.
