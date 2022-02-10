@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing PhD under the supervision of [Dr. Puneet Gupta](https://www.iiti.ac.in/people/~puneet/) at department of Computer Science and Engineering, Indian Institute of Technology (IIT) Indore, with the aim to make healthcare systems robust and trustworthy. I have more than 2 years of experience in Python programming, Data Analysis, and Deep Learning related technologies. 
+Welcome to my page.
+I am pursuing PhD under the supervision of [Dr. Puneet Gupta](https://www.iiti.ac.in/people/~puneet/) at the Department of Computer Science and Engineering in the Indian Institute of Technology (IIT) Indore, with the aim to make healthcare systems robust and trustworthy. I possess more than 2 years of experience in Deep Learning related technologies, Python programming, Data Analysis. My area of interest includes Machine learning, Deep Learning, Computer Vision and Medical Imaging.
 
 Education
 =========
