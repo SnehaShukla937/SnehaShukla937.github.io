@@ -20,16 +20,16 @@ Education
 
 Experience
 =========
-* **Programmer**, [National Informatics Center (NIC)](https://chhattisgarh.nic.in/), [Jul. 2018 - Dec. 2019]
+* **Programmer (R & D)**, [National Informatics Center (NIC)](https://chhattisgarh.nic.in/), [Jul. 2018 - Dec. 2019]
   * Involved in the research and development group of a school education project, where I have designed a speech recognition system utilising deep learning techniques. The vision of this project is to tackle the problem of pronunciation in the English language.
   * Worked on data analytics and report generation on state education data using SQL queries, SQLite3, pandas, reportlab, matplotlib and several other python libraries.
 
 
 Some Academic Achievements
 ==========================
-* Presented paper on International Conference on Information and Communication Technology for Competitive Strategies (ICTCS - 2017) in Dec. 2017.
-* Presented  paper on National Conference of Emerging Trends in Information Technology and Management (ETITM - 2017) in Dec. 2017.
-* Participated in the workshop on Medical Signal and Image Processing on May 2017.
+* Presented paper on International Conference on Information and Communication Technology for Competitive Strategies (ICTCS - 2017).
+* Presented  paper on National Conference of Emerging Trends in Information Technology and Management (ETITM - 2017).
+* Participated in the workshop on Medical Signal and Image Processing.
 * Achieved pre-senior and senior general knowledge test certificates for securing 90% marks in both.
 
 
