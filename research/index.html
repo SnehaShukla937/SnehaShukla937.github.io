@@ -184,7 +184,7 @@ iframe {
     
         <div class="portfolio-details" data-aos="fade-up" data-aos-delay="200">
           <div class="research-item">
-            <h3><b> Detection of Adversarial and OOD samples</b></h3>
+            <h3><b> Detection of Adversarial and OOD samples in Medical Imaging</b></h3>
             <div class="row">
               <div class="col-sm-18">
                 <div id="wildfireCarousel" class="carousel slide" data-bs-ride="carousel">
@@ -213,11 +213,11 @@ iframe {
          </div>
       </div>
     <p></p>
-    <p><b>Description:</b> Deep Learning (DL) models for medical imaging are vulnerable to carefully designed adversarial attacks. These attacks introduce subtle, human imperceptible perturbations to the input image, which can entirely mislead the model's predictions.</p>
-    <p><b>Challenges:</b> DL-based medical image segmentation models often use non-differentiable loss functions and layers that obstruct gradient calculations, complicating attack execution.</p>
-    <p><b>Proposed Solution:</b> A novel adversarial attack, <i>MedIS</i>, that employs parallel fusion to select optimal surrogate loss functions and replaces non-differentiable layers with differentiable approximations to enhance attack effectiveness. </p>
-    <p><b>Performance:</b> <i>MedIS</i> attack achieves high attack success rate with least average perturbation, tested on various medical applications (e.g., lung, brain, skin lesion, and polyp segmentation) across numerous threat models.</p>
-    <p><b>Significance:</b> Understanding these vulnerabilities is crucial for developing more resilient DL-based healthcare applications. This study emphasizes the need to implement security measures to address adversarial risks in critical medical systems.</p>
+    <p><b>Description:</b> A model-agnostic framework that detects both adversarial and out-of-distribution (OOD) samples in medical imaging by measuring the consistency of predictions. It improves the reliability of models without requiring retraining or ground truth.</p>
+    <p><b>Challenges:</b> Deep learning-based medical imaging models are vulnerable to adversarial attacks and OOD inputs, which can produce inaccurate and unreliable segmentation results. Existing detection methods are mainly designed for classification tasks or require additional training and labelled data. </p>
+    <p><b>Proposed Solution:</b> A novel detection method, <i>EVADE</i> generates rotated versions of the input image and compares their segmentation outputs with the original prediction. Images with low prediction consistency are identified as adversarial or OOD samples, while consistent predictions are considered clean. </p>
+    <p><b>Performance:</b> <i>EVADE</i> achieves a high detection success rate and outperforms existing detection methods across multiple medical imaging models.</p>
+    <p><b>Significance:</b> It provides a simple, efficient, and unified approach for detecting unreliable inputs in medical imaging systems. Its model-independent design enhances the robustness and trustworthiness of AI-assisted medical diagnosis, making it suitable for real-world healthcare applications.</p>
 
       <button class="btn btn-primary" style="background-color: green; color: white; border: none;" onclick="location.href = 'https://link.springer.com/article/10.1007/s11042-023-15575-8';">more details...</button>
  </div>        
