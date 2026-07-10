@@ -190,10 +190,10 @@ iframe {
                 <div id="wildfireCarousel" class="carousel slide" data-bs-ride="carousel">
                   <div class="carousel-inner">
                     <div class="carousel-item active">
-                      <img src="../assets/img/research/MedisAttack/medis.png" class="d-block w-100" alt="MEDIS1">
+                      <img src="../assets/img/research/evade1.png" class="d-block w-100" alt="MEDIS1">
                     </div>
                     <div class="carousel-item">
-                      <img src="../assets/img/research/MedisAttack/medis2.png" class="d-block w-100" alt="MEDIS2">
+                      <img src="../assets/img/research/evade2.png" class="d-block w-100" alt="MEDIS2">
                     </div>
                   </div>
                   <a class="carousel-control-prev" href="#wildfireCarousel" role="button" data-bs-slide="prev">
@@ -214,7 +214,7 @@ iframe {
       </div>
     <p></p>
     <p><b>Description:</b> A model-agnostic framework that detects both adversarial and out-of-distribution (OOD) samples in medical imaging by measuring the consistency of predictions. It improves the reliability of models without requiring retraining or ground truth.</p>
-    <p><b>Challenges:</b> Deep learning-based medical imaging models are vulnerable to adversarial attacks and OOD inputs, which can produce inaccurate and unreliable segmentation results. Existing detection methods are mainly designed for classification tasks or require additional training and labelled data. </p>
+    <p><b>Challenges:</b> Deep learning-based medical imaging models are vulnerable to adversarial attacks and OOD inputs, leading to inaccurate and unreliable segmentation results. Existing detection methods are mainly designed for classification tasks or require additional training and labelled data. </p>
     <p><b>Proposed Solution:</b> A novel detection method, <i>EVADE</i> generates rotated versions of the input image and compares their segmentation outputs with the original prediction. Images with low prediction consistency are identified as adversarial or OOD samples, while consistent predictions are considered clean. </p>
     <p><b>Performance:</b> <i>EVADE</i> achieves a high detection success rate and outperforms existing detection methods across multiple medical imaging models.</p>
     <p><b>Significance:</b> It provides a simple, efficient, and unified approach for detecting unreliable inputs in medical imaging systems. Its model-independent design enhances the robustness and trustworthiness of AI-assisted medical diagnosis, making it suitable for real-world healthcare applications.</p>
