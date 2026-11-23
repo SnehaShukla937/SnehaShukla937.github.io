@@ -124,8 +124,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="publication-card">
       <div class="publication-title"><b>[2026] Synthetic data in medical imaging: From technical promise to clinical practice.</b>Bhalaji Nagarajan, Salma Newegy, Sneha Shukla and Petia Radeva. In <i>Medicina Clínica, Elsevier.</i></div>
         <div class="btn-group">
-          <button class="btn btn-primary" style="background-color: green; color: white; border: none;" onclick="showBibTex('bib_cease')">BibTeX</button> &nbsp; &nbsp; &nbsp;
-          <button class="btn btn-secondary" style="background-color: yellow; color: white; border: none;" onclick="showAbstract('bib_cease')">Abstract</button> &nbsp; &nbsp; &nbsp;
+          <button class="btn btn-primary" style="background-color: green; color: white; border: none;" onclick="showBibTex('bib_syn')">BibTeX</button> &nbsp; &nbsp; &nbsp;
+          <button class="btn btn-secondary" style="background-color: yellow; color: white; border: none;" onclick="showAbstract('bib_syn')">Abstract</button> &nbsp; &nbsp; &nbsp;
           <button class="btn btn-success" style="background-color: red; color: white; border: none;" onclick="location.href = 'hhttps://doi.org/10.1016/j.medcli.2026.107691';">Link</button>
         </div>
         
@@ -349,7 +349,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     function showAbstract(id) {
       const abstractSamples = {
-        'bib_syn':'
+        'bib_syn':'',
 
         'bib_evade':'The evolution of Deep Learning (DL) models in the healthcare domain has significantly advanced the automation of Medical Image Segmentation (MIS). Unfortunately, such models often perform erroneously when confronted with anomalous samples, such as adversarial inputs and out-of-distribution (OOD) data. Adversarial samples introduce human-imperceptible perturbations into the input, whereas OOD samples represent input data with significant distribution shifts. As these samples drastically diminish the robustness and performance of the DL-based MIS models, a robust detection method is essential to mitigate their detrimental impact on life-critical healthcare applications. To identify such samples, several existing works largely centred on medical image classification, which requires network retraining. In contrast, this paper proposes a unified method, EVADE (dEtection of adVersarial And OOD SamplEs), aiming to distinguish adversarial and OOD samples from clean samples for MIS while neglecting ground truth and network retraining. It leverages the observation that clean samples exhibit high consistency with their rotated variants as the MIS model provides rotation-agnostic predictions. In contrast, the consistency drops for adversarial samples because the rotation diminishes the impact of perturbations. Similarly, OOD samples exhibit reduced consistency due to their inherently random behaviour in output. Thus, our proposed method, EVADE evaluates the consistency between the MIS prediction of input and its corresponding rotated variants to detect adversarial and OOD samples. Experimental results on publicly available datasets demonstrate that EVADE surpasses existing detection methods, achieving a detection success rate of up to 89.01 % for adversarial detection and up to 75.38 % for OOD detection across state-of-the-art MIS models.',
         
